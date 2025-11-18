@@ -1,0 +1,34 @@
+{
+  "name": "agroaid-inspector",
+  "version": "1.0.0",
+  "description": "An advanced crop disease detection tool for farmers in Tamil Nadu. It uses a primary custom model and falls back to an advanced AI for comprehensive analysis. Select a crop, upload an image, get an instant diagnosis, and calculate your estimated claim amount based on your land area.",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "gemini",
+    "ai",
+    "agriculture"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@vitejs/plugin-react": "^5.1.1",
+    "serve": "^14.2.3",
+    "vite": "^7.2.2"
+  },
+  "dependencies": {
+    "@google/genai": "^1.29.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}

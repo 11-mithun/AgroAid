@@ -1,0 +1,5 @@
+{
+  "name": "AgroAid Inspector",
+  "description": "An advanced crop disease detection tool for farmers in Tamil Nadu. It uses a primary custom model and falls back to an advanced AI for comprehensive analysis. Select a crop, upload an image, get an instant diagnosis, and calculate your estimated claim amount based on your land area.",
+  "requestFramePermissions": []
+}

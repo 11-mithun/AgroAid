@@ -1,0 +1,10 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+tensorflow==2.16.1
+numpy<2.0,>=1.26.4
+tf-keras-vis==0.8.7
+google-generativeai==0.7.1
+python-dotenv==1.0.1
+opencv-python-headless==4.9.0.80
+Pillow==10.3.0
+matplotlib==3.8.4
